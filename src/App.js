@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
 
-  const API_KEY = "d8940ba43d985c46dd49a6f95f1847df"
+  const API_KEY = [your api key]
   const [inputCity, setInputCity] = useState("")
   const [data, setData] = useState({})
 
